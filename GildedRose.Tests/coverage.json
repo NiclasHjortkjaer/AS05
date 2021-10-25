@@ -1,0 +1,373 @@
+{
+  "GildedRose.dll": {
+    "C:\\Users\\hjort\\OneDrive\\Dokumenter\\Code\\BDSA\\AS05\\AS05\\GildedRose\\Program.cs": {
+      "GildedRose.Program": {
+        "System.Void GildedRose.Program::Main(System.String[])": {
+          "Lines": {
+            "10": 0,
+            "57": 0
+          },
+          "Branches": []
+        },
+        "System.Void GildedRose.Program::UpdateQuality()": {
+          "Lines": {
+            "60": 24,
+            "61": 336,
+            "62": 144,
+            "63": 144,
+            "64": 144,
+            "65": 24
+          },
+          "Branches": [
+            {
+              "Line": 61,
+              "Offset": 45,
+              "EndOffset": 5,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 144
+            },
+            {
+              "Line": 61,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 24
+            }
+          ]
+        }
+      },
+      "GildedRose.Item": {
+        "System.String GildedRose.Item::get_Name()": {
+          "Lines": {
+            "71": 84
+          },
+          "Branches": []
+        },
+        "System.Int32 GildedRose.Item::get_SellIn()": {
+          "Lines": {
+            "73": 425
+          },
+          "Branches": []
+        },
+        "System.Int32 GildedRose.Item::get_Quality()": {
+          "Lines": {
+            "75": 667
+          },
+          "Branches": []
+        },
+        "System.Void GildedRose.Item::Update()": {
+          "Lines": {
+            "77": 72,
+            "78": 72,
+            "79": 72,
+            "80": 71,
+            "81": 72,
+            "82": 2,
+            "83": 72
+          },
+          "Branches": [
+            {
+              "Line": 79,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 71
+            },
+            {
+              "Line": 79,
+              "Offset": 29,
+              "EndOffset": 48,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 72
+            },
+            {
+              "Line": 81,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 71
+            },
+            {
+              "Line": 81,
+              "Offset": 55,
+              "EndOffset": 68,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 81,
+              "Offset": 71,
+              "EndOffset": 73,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 81,
+              "Offset": 71,
+              "EndOffset": 90,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 72
+            }
+          ]
+        }
+      },
+      "GildedRose.ConjuredItem": {
+        "System.Void GildedRose.ConjuredItem::Update()": {
+          "Lines": {
+            "89": 24,
+            "90": 24,
+            "91": 24,
+            "92": 24,
+            "93": 24,
+            "94": 1,
+            "95": 24
+          },
+          "Branches": [
+            {
+              "Line": 91,
+              "Offset": 19,
+              "EndOffset": 21,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 24
+            },
+            {
+              "Line": 91,
+              "Offset": 19,
+              "EndOffset": 38,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 24
+            },
+            {
+              "Line": 93,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 24
+            },
+            {
+              "Line": 93,
+              "Offset": 45,
+              "EndOffset": 58,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 93,
+              "Offset": 61,
+              "EndOffset": 63,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 93,
+              "Offset": 61,
+              "EndOffset": 80,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 24
+            }
+          ]
+        }
+      },
+      "GildedRose.LegendaryItem": {
+        "System.Void GildedRose.LegendaryItem::Update()": {
+          "Lines": {
+            "100": 48
+          },
+          "Branches": []
+        }
+      },
+      "GildedRose.CheeseItem": {
+        "System.Void GildedRose.CheeseItem::Update()": {
+          "Lines": {
+            "105": 24,
+            "106": 24,
+            "107": 23,
+            "108": 24,
+            "109": 1,
+            "110": 24
+          },
+          "Branches": [
+            {
+              "Line": 106,
+              "Offset": 13,
+              "EndOffset": 15,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 23
+            },
+            {
+              "Line": 106,
+              "Offset": 13,
+              "EndOffset": 32,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 24
+            },
+            {
+              "Line": 108,
+              "Offset": 40,
+              "EndOffset": 42,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 23
+            },
+            {
+              "Line": 108,
+              "Offset": 40,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            },
+            {
+              "Line": 108,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 1
+            },
+            {
+              "Line": 108,
+              "Offset": 56,
+              "EndOffset": 75,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 24
+            }
+          ]
+        }
+      },
+      "GildedRose.TicketItem": {
+        "System.Void GildedRose.TicketItem::Update()": {
+          "Lines": {
+            "115": 24,
+            "116": 24,
+            "117": 1,
+            "118": 23,
+            "119": 23,
+            "120": 23,
+            "122": 23,
+            "123": 2,
+            "125": 23,
+            "126": 1,
+            "127": 23,
+            "128": 24
+          },
+          "Branches": [
+            {
+              "Line": 116,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 116,
+              "Offset": 12,
+              "EndOffset": 24,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 23
+            },
+            {
+              "Line": 119,
+              "Offset": 37,
+              "EndOffset": 39,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 23
+            },
+            {
+              "Line": 119,
+              "Offset": 37,
+              "EndOffset": 56,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 23
+            },
+            {
+              "Line": 122,
+              "Offset": 64,
+              "EndOffset": 66,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 2
+            },
+            {
+              "Line": 122,
+              "Offset": 64,
+              "EndOffset": 78,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 21
+            },
+            {
+              "Line": 122,
+              "Offset": 81,
+              "EndOffset": 83,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 2
+            },
+            {
+              "Line": 122,
+              "Offset": 81,
+              "EndOffset": 100,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 23
+            },
+            {
+              "Line": 125,
+              "Offset": 107,
+              "EndOffset": 109,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 1
+            },
+            {
+              "Line": 125,
+              "Offset": 107,
+              "EndOffset": 121,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 22
+            },
+            {
+              "Line": 125,
+              "Offset": 126,
+              "EndOffset": 128,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 1
+            },
+            {
+              "Line": 125,
+              "Offset": 126,
+              "EndOffset": 145,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 23
+            }
+          ]
+        }
+      }
+    }
+  }
+}
